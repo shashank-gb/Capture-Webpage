@@ -1,6 +1,6 @@
-# Website_Scrolling_Screenshot
+# Website Scrolling Screenshot
 
-take a screenshot of whole wesite in a single click.
+take a screenshot of whole website in a single click.
 
 ##Description
 
