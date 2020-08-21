@@ -1,0 +1,34 @@
+#content{
+    align-items: center;
+    padding: 0;
+}
+
+#protocol{
+    max-width: 10rem;
+    box-shadow: none;
+}
+
+#web-address, #screenshot{
+    box-shadow: none;
+}
+
+#alert{
+    padding: 0 3rem;
+    font-family: cursive;
+    font-size: small;
+}
+
+#status{
+    padding: 0 3rem;
+    font-size: small;
+    font-family: cursive;
+}
+
+section{
+    padding: 3rem;
+}
+
+#note{
+    padding-top: 1rem;
+    font-size: small;
+}
