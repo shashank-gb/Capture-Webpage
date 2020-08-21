@@ -29,7 +29,7 @@ python main.py
 
 #### Select a valid protocol
 * http:// and https:// should be exact.
-* file:/// cann be used to access local files.
+* file:/// can be used to access local files.
 
 #### Enter a vlaid URL
 * URL must be valid .
