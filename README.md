@@ -2,7 +2,7 @@
 
 take a screenshot of whole website in a single click.
 
-##Description
+## Description
 
 A software which helps to take a screenshot of whole website in a single click.This software validates internet connectivity and it almost handles all the exception errors.
 It uses a **chromedriver** software which is executed by selenium webdriver codes.It is useful for taking a screenshot of a whole website in single **png** format.
