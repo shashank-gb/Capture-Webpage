@@ -1,5 +1,5 @@
-# Website Scrolling Screenshot
-
+# Capture Webpage
+## Scrolling Screenshot for Webpage
 take a screenshot of whole website in a single click.
 
 ## Description
@@ -46,7 +46,7 @@ python main.py
 
 ## Versions
 
-* 1.0
+* 0.0.1
   * Initial release
 
 ## Authors
