@@ -31,7 +31,7 @@ python main.py
 * http:// and https:// should be exact.
 * file:/// can be used to access local files.
 
-#### Enter a vlaid URL
+#### Enter a valid URL
 * URL must be valid .
 * Don't use protocols (http://, https://,...) in input.
 
@@ -43,6 +43,11 @@ python main.py
 * You can check all the on going progress in status bar.
 * status bar also shows errors like invalid URL, invalid protocol selection,...
 * It also displays an Internet Connectivity.
+
+#### Note
+* chromedriver version should be varied from one to another.
+* You need to download chromedriver version depending on your actual chrome version.
+* After downloading, It must be kept in driver folder.
 
 ## Versions
 
